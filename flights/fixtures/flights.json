@@ -1,0 +1,66 @@
+[
+  {
+    "model": "flights.flight",
+    "pk": 1,
+    "fields": {
+      "arrival": "11:11",
+      "departure": "18:18"
+    }
+  },
+  {
+    "model": "flights.flight",
+    "pk": 2,
+    "fields": {
+      "arrival": "05:05",
+      "departure": "22:22"
+    }
+  },
+  {
+    "model": "flights.flight",
+    "pk": 3,
+    "fields": {
+      "arrival": "04:04",
+      "departure": "23:23"
+    }
+  },
+  {
+    "model": "flights.flight",
+    "pk": 4,
+    "fields": {
+      "arrival": "06:06",
+      "departure": "19:19"
+    }
+  },
+  {
+    "model": "flights.flight",
+    "pk": 5,
+    "fields": {
+      "arrival": "09:09",
+      "departure": "23:23"
+    }
+  },
+  {
+    "model": "flights.flight",
+    "pk": 6,
+    "fields": {
+      "arrival": "08:08",
+      "departure": "12:12"
+    }
+  },
+  {
+    "model": "flights.flight",
+    "pk": 7,
+    "fields": {
+      "arrival": "02:02",
+      "departure": "18:18"
+    }
+  },
+  {
+    "model": "flights.flight",
+    "pk": 8,
+    "fields": {
+      "arrival": "15:15",
+      "departure": "20:20"
+    }
+  }
+]

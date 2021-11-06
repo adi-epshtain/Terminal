@@ -1,0 +1,20 @@
+ /* flights css */
+ .main-container
+ {
+     padding: 15px;
+ }
+.flights-table
+{
+    border-collapse: collapse;
+}
+
+.flights-table, th, td
+{
+    border: 1px solid black;
+    padding: 15px;
+}
+
+th
+{
+    color: darkblue;
+}
